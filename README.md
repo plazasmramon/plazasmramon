@@ -6,7 +6,7 @@
 ### Estudios actuales:
 - 📚 Actualmente estudiando en [*Centro Integral de Formación Profesional a Distancia **"La Conservera"** - Región de Murcia*](https://sites.google.com/view/fplaconservera)
 - 💻 Estudiando *Formación Profesional de Grado Superior* para ser técnico superior en [**Desarrollo de Aplicaciones Multiplataforma**](https://todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/des-aplicaciones-multiplataforma.html)
-- 🏫 Cursando los <u>módulos</u> de:
+- 🏫 Cursando los **módulos** de:
 	* Lenguajes de marcas y sistemas de gestión de información
 	* Entornos de desarrollo
 	* Bases de Datos
@@ -15,7 +15,7 @@
 	* Itinerario personal para la empleabilidad I
 	* Programación
 	* Sistemas informáticos
-- 👓 Tecnologías en las que estoy interesado:
+- 👓 **Tecnologías** en las que estoy interesado:
 	1. HTML
 	2. Markdown
 	3. JavaScript
@@ -24,7 +24,7 @@
 	6. Python
 	7. C++
 	8. COBOL
-- 📡 Stack Tecnológico del Curso:
+- 📡 **Stack** Tecnológico del Curso:
 	1. Software de Programación
 		- Visual Studio Code
 	2. Intérpretes 
@@ -41,18 +41,18 @@
 		- React
 		- Node.js
 		- Express
-- 💼 Preferencias tecnológicas de cara al ámbito laboral:
+- 💼 **Preferencias** tecnológicas de cara al ámbito laboral:
 	* Desarrollador Full-Stack
 	* Frontend
 	* Backend
 	* Analista de Datos
 ***
 ### Otros estudios:
-- 📜 Maestro de Educación Primaria especialista en Inglés, por la **Universidad de Granada**
-- 🇬🇧 Certificado por _"University of Cambridge"_ con *First Certificate in English*
+- 📜 Grado de Educación Primaria especialista en Inglés, por la **Universidad de Granada**
+- 🇬🇧 Certificado por _"University of Cambridge"_ con **_First Certificate in English_**
 ***
 ### Hobbies:
-- 🎸 Soy un apasionado de la música. Actualmente grabo y produzco a grupos en mi Home Studio
-- ✈️ Me encanta viajar por cualquier parte del mundo
-- 🍔 Experto catador de hamburguesas
+- 🎸 Soy un apasionado de la **música**. Actualmente grabo y produzco a grupos en mi Home Studio
+- ✈️ Me encanta **viajar** por cualquier parte del mundo
+- 🍔 Experto catador de **hamburguesas**
 <img src="https://imagizer.imageshack.com/img924/3176/kNwHcl.jpg" width=50% text-align: right/>
